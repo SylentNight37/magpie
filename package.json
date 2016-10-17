@@ -1,0 +1,15 @@
+{
+    "name": "sylentnight.magpie",
+    "title": "Magpie",
+    "description": "This theme is based on the colors of magpies",
+    "homepage": "https://github.com/sylentnight37/magpie",
+    "version": "1.0.0",
+    "author": "Mark Jeffreys",
+    "license": "MIT",
+    "theme": {
+        "file": "theme.less",
+        "dark": true,
+        "addModeClass": true
+    },
+    "keywords": ["theme"]
+}
